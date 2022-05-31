@@ -1,0 +1,14 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "Site from-Scratch ver 1",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./style.css"
+  },
+  "author": "DIJOUX GREGORY",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

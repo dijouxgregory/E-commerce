@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;   
+}
+
+h1,h2,h3,h4,h5,h6,p,a,li{
+    font-family: 'Noto Sans', sans-serif;
+
+}
+
+h3{
+    font-size: 30px;
+}
+h1{
+    font-size: 45px;
+}
+p, li{
+    font-size: 18px;
+}
+p{
+    line-height: 150%;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
